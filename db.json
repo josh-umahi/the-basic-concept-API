@@ -9,9 +9,9 @@
         },
         {
             "id": "102",
-            "title": "Urban Jacket / Khaki",
-            "imageURL": "assets/images/b.jpg",
-            "price": 55,
+            "title": "Pearl Trim Sleeveless T-Shirt / Pink",
+            "imageURL": "assets/images/d.jpg",
+            "price": 39,
             "category": "apparel"
         },
         {
@@ -23,9 +23,9 @@
         },
         {
             "id": "104",
-            "title": "Pearl Trim Sleeveless T-Shirt / Pink",
-            "imageURL": "assets/images/d.jpg",
-            "price": 39,
+            "title": "Urban Jacket / Khaki",
+            "imageURL": "assets/images/b.jpg",
+            "price": 55,
             "category": "apparel"
         }
     ],
